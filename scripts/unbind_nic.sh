@@ -1,0 +1,1 @@
+sudo dpdk-devbind.py --bind=r8169 0000:04:00.0
